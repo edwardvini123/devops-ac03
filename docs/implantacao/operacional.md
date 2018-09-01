@@ -1,0 +1,2 @@
+#Para um Plano Operacional de TI perfeito, o Desenvolvimento de Sistemas deve estar bem definido e organizado, com investimentos sólidos e contínuos nesses projetos. Desenvolver softwares que agregam valor a sua empresa como ERP, além de praticidade e segurança, deve ser um dos objetivos principais de seu TI.
+# No entanto, não se trata apenas de ter disponíveis os melhores softwares e hardwares do mercado. Na verdade, é preciso ter uma equipe capaz de gerenciar com excelência todo o parque tecnológico da empresa, contribuindo assim para a eficiência da gestão operacional.
